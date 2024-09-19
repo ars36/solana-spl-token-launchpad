@@ -1,0 +1,17 @@
+// CLUSTER = devnet
+// MAINNET_RPC_URL = https://mainnet.helius-rpc.com/?api-key
+// DEVNET_RPC_URL = https://devnet.helius-rpc.com/?api-key
+// PINATA_API_KEY = b0f6ea9dcbd5ce5ae539
+// PINATA_SECRET_API_KEY = d00ca5913d8a14b9e16df98797fc32e08157e31667f88659e0cf6f157264e260
+// POOL_EACH_INTERVAL = 60   # Time interval with seconds unit between new pools created from tokens
+// # For Volume bot
+// BUY_INTERVAL_MAX = 2000     # ms
+// BUY_INTERVAL_MIN = 4000     # ms
+// DISTRIBUTION_PER_WALLET = 0.1   # SOL
+// BUY_UPPER_AMOUNT = 0.08
+// BUY_LOWER_AMOUNT = 0.04
+// # recovery mode
+// RECOVERY_MODE = true
+// # monitoring mode
+// SOL_GATHERED = 2         # SOL
+// POOL_MAX_LIVE_TIME = 60   # seconds
