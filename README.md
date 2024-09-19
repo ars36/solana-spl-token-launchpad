@@ -1,5 +1,12 @@
-# React + TypeScript + Vite
+# solana-spl-token-launchpad
 
+Creating an SPL Token on the Solana blockchain. 
+
+
+
+
+
+This application allows you to easily create a custom token on Solana.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
